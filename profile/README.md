@@ -5,9 +5,10 @@
 ```tsx
 {
   Frontend: ['React (NextJs/UmiJs)', 'VueJs(Vue3/Nuxt3)', 'React Native', 'Flutter', 'Javascript/Typescript'],
-  StateMgt: ['Redux Saga/Thunk (Toolkit/RematchJs)', 'Apollo Cliet/GraphQl', 'VueX','Pinia'],
+  StateMgt: ['Redux Saga/Thunk (Toolkit/RematchJs)', 'Apollo Cliet/GraphQl', 'VueX','Pinia', 'flutter bloc'],
   FrontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap', 'Css', 'Sass', 'Less' ,'md','Tailwind','NativeBase'],
   UX/UI: ['Adobe XD','Figma','Skect','Photoshop'],
+  Headless CMS: ['Directus9 (Vue3+Nodejs)', 'Strapi 4(React+NodeJs)'],
   Backend: ['NodeJS (Nest+GraphQL/Rest)', 'GoLang'],
   RealTime: ['Firebase','Socket','Pusher','MQTT','RabitMQ']
 }
