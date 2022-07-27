@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ Welcome to Next-Dev: we are working for open sorce forcus on faster development and best pratise especialy for boilerplate, tooling, components etc
+🙋‍♀️ Welcome to Next-Dev: we are working for open sorce focus on to make development faster, best pratise especialy for boilerplate, tooling, components etc
 🌈 Any one can contribute to share your knowlegde here to improve and share to our community. 
 👩‍💻 Common languages and skills we are working on: 
 ```tsx
