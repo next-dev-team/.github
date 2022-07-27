@@ -14,5 +14,5 @@
 }
 ```
  
-🧙 We are also accept frelance project (Mobile/Web/Admin/POS/ERP)with suitable price 
+🧙 We are also accept frelance project (Mobile/Web/Admin/POS/ERP) with suitable price 
    - Contact for work: rimsila.itc@gmail.com
