@@ -14,6 +14,6 @@
 }
 ```
  
-🧙 We are also accept frelance project (Mobile/Web/Admin/POS/ERP) with suitable price
+<!--🧙 We are also accept frelance project (Mobile/Web/Admin/POS/ERP) with suitable price-->
    
    [![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
